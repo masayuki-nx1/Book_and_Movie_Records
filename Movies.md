@@ -188,4 +188,5 @@
 ## 2025
 1. 機動戦士Gundam GQuuuuuuX -
 2. BETTER MAN/ベター・マン
+3. アマチュア
     
